@@ -1,0 +1,1 @@
+FOTO<img width="1408" height="768" alt="Gemini_Generated_Image_ge6nubge6nubge6n" src="https://github.com/user-attachments/assets/606bba66-bbdc-45ac-b9a0-c9faa61ecef2" />
