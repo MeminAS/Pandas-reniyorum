@@ -7,4 +7,4 @@ data = {
     "bolum": ["bilgisayar", "fizyoterapi", "havacılık elektriği"]
 }
 df = panda.DataFrame(data)
-print(df[df["yas"] > 19])
+print(df[(df["yas"] > 18) & (df["sehir"] == "İstanbul")])
